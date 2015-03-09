@@ -1,0 +1,25 @@
+{
+  "name": "uservice-engine",
+  "version": "0.1.0",
+  "description": "Empty",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:disintegrator/uservice-engine.git"
+  },
+  "keywords": [
+    "uservice"
+  ],
+  "author": "George Haidar <ghaidar0@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/disintegrator/uservice-engine/issues"
+  },
+  "homepage": "https://github.com/disintegrator/uservice-engine",
+  "dependencies": {
+    "async": "^0.9.0"
+  }
+}
